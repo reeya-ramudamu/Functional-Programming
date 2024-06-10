@@ -1,3 +1,9 @@
+
+// Immutability in functional programming means that once data is created, it cannot be changed or modified. 
+//Instead of modifying existing data, immutable data structures are created anew whenever changes are needed. 
+//This ensures predictability, consistency, and thread safety in code.
+// Additionally, immutability encourages the use of pure functions, simplifying testing and debugging while promoting functional purity.
+
 // Original array of products
 const products = [
     { id: 1, price: 200 },
